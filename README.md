@@ -1,2 +1,3 @@
 # hello-world
-this ia a test
+this is a test
+this is my first project in github
